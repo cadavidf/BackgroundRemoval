@@ -6,7 +6,7 @@ import base64
 
 st.set_page_config(layout="wide", page_title="animality.ai Image Background Remover")
 
-st.write("## Remove background from your image")
+st.write("## animality.ai - Tool Remove background from your image")
 st.write(
     ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar.  [here](https://github.com/animalityai/BackgroundRemoval) on GitHub. Special thanks animality.ai  [rembg library](https://animality.ai/) :grin:"
 )
