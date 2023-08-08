@@ -9,7 +9,7 @@ st.set_page_config(layout="wide", page_title="animality.ai Image Background Remo
 st.write("## animality.ai")
 st.write("Tool Remove background from your image")
 st.write(
-    ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar.  [here](https://github.com/animalityai/BackgroundRemoval) on GitHub. Special thanks animality.ai  [rembg library](https://animality.ai/) :grin:"
+    ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar. All Rights Reserved 2023  [animality.ai library](https://animality.ai/) :grin:"
 )
 st.sidebar.write("## Upload and download :gear:")
 
